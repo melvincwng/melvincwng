@@ -6,7 +6,10 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
   <img src="https://img.shields.io/badge/GdScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=node.js&logoColor=white""></img>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></img>
 </p>
 
 
