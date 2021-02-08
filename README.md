@@ -3,6 +3,7 @@
 <p>
   I'm currently learning:
 </p>
+<img src="https://camo.githubusercontent.com/89e922afb194caef8bf737077a23e99bd35fcc9834dfe5a75319bc59a8ed87c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765"></img>
 
 <!--
 **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
