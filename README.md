@@ -1,12 +1,12 @@
 ### Hi there, I'm Melvin Ng 👋
 <p>I'm an aspiring software developer who is currently learning new languages and frameworks. I'm currently learning:</p>
 <p>
-  <img src="https://camo.githubusercontent.com/89e922afb194caef8bf737077a23e99bd35fcc9834dfe5a75319bc59a8ed87c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765">H</img>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></img>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-  <img src="https://camo.githubusercontent.com/f6564a95ac12108235d630bbdf840bf0f0330f894a834342385a21eda619fc66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f6c6f676f3d4a617661536372697074266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765"></img>
-  <img src="https://camo.githubusercontent.com/98e6c7e8eae85721abc1a0765c57edb3833581b46aadb5bf8196f4dc7737b46f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f6c6f676f3d5265616374266c6f676f436f6c6f723d303030303030267374796c653d666f722d7468652d6261646765"></img>
-  <img src="https://camo.githubusercontent.com/b040032cfd41901247f08fd2a353d9810ef9ea525625a1a399e531d2d4095ed5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></img>
   <img src="https://img.shields.io/badge/GdScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
 </p>
 
 
