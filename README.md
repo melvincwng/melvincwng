@@ -1,5 +1,7 @@
 ### Hi there, I'm Melvin Ng 👋
 
+<h3>I'm an aspiring software developer who is currently learning new languages and frameworks.</h3>
+
 <!--
 **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Hi</h3>
+
 <a href="https://camo.githubusercontent.com/b040032cfd41901247f08fd2a353d9810ef9ea525625a1a399e531d2d4095ed5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f6c6f676f3d507974686f6e266c6f676f436f6c6f723d464646464646267374796c653d666f722d7468652d6261646765"></a>
