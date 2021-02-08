@@ -1,6 +1,8 @@
 ### Hi there, I'm Melvin Ng 👋
-
-<h3>I'm an aspiring software developer who is currently learning new languages and frameworks.</h3>
+<p>I'm an aspiring software developer who is currently learning new languages and frameworks.</p>
+<p>
+  I'm currently learning:
+</p>
 
 <!--
 **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
