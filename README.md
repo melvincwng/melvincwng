@@ -16,7 +16,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-
 <p>My Github Stats: </p>
 
 [![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melvincwng)](https://github.com/melvincwng/github-readme-stats)
