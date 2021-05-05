@@ -1,4 +1,4 @@
-### Hi there, I'm Melvin Ng 👋
+### Hi there, I'm Melvin Ng 👋🏻
 <p>I'm a software developer trainee who is currently learning new languages and frameworks. I'm currently learning:</p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white" />
