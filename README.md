@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
-<p>In future, I intend to learn: </p>
+<p>In the future, I intend to learn: </p>
 <p>      
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />                                                                         <img src="https://img.shields.io/badge/Flask-4A4A55?style=for-the-badge&logo=flask&logoColor=white" /> 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
