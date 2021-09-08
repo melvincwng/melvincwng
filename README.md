@@ -17,8 +17,7 @@
 <p>In the future, I intend to learn: </p>
 <p>      
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>                                            
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                          
 </p>  
 <p>My Personal Website: </p>                                                                                                             
 <p><a href="https://melvincwng.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a></p>
