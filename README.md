@@ -21,8 +21,8 @@
 </p>  
 <p>My Personal Website / Additional links: </p>                                                                                                             
 <p>
-  <a href="https://melvincwng.github.io/" target="_blank"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://app.pluralsight.com/profile/melvin-ng" target="_blank"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>                                       
+  <a href="https://melvincwng.github.io/" onclick='window.open("https://melvincwng.github.io/");return false;'><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://app.pluralsight.com/profile/melvin-ng" onclick='window.open("https://app.pluralsight.com/profile/melvin-ng");return false;'><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>                                       
 </p>
 
 <!-- <p>My Github Stats: </p> -->
