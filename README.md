@@ -22,7 +22,7 @@
 <p>My Personal Website / Additional links: </p>                                                                                                             
 <p>
   <a href="https://melvincwng.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" />                                                             
+  <a href="https://app.pluralsight.com/profile/melvin-ng"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>                                       
 </p>
 
 <!-- <p>My Github Stats: </p> -->
