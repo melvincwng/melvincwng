@@ -32,8 +32,7 @@
   <a href="https://melvincwng.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://app.pluralsight.com/profile/melvin-ng"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>
   <a href="https://melvinng.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-</p>
-                                                                                                                                               
+</p>                                                                                                                                               
 <p><i>"The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021</i></p>
 
 <!-- <p>My Github Stats: </p> -->
