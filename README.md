@@ -1,5 +1,5 @@
 ### Hi there, I'm Melvin Ng 👋🏻
-<p>I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning:</p>
+<p>I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: </p>
 <p>
   <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -33,9 +33,10 @@
   <a href="https://melvincwng.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://app.pluralsight.com/profile/melvin-ng"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>
   <a href="https://melvinng.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-</p>                                                                                                                                               
+  <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&style=plastic"/>                                                       
+</p>                                                                                                                                            
 <p><i>"The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓📚🤔</i></p>
-
+                                                                                                                                                   
 <!-- <p>My Github Stats: </p> -->
 
 <!-- [![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melvincwng)](https://github.com/melvincwng/github-readme-stats) -->
