@@ -45,7 +45,7 @@
 </span>
 
 <span>
-  <img src="https://github.com/melvincwng/movie-admin-app/blob/master/docs/img/success.gif" width="75" height="75" align="right"/>
+  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" align="right"/>
 </span>   
                                                                                                                                                    
 <!-- <p>My Github Stats: </p> -->
