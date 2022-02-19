@@ -37,7 +37,16 @@
   <a href="https://melvinng.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>                                                     
 </p>                                                                                                                                            
 <p><i>"The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓📚🤔</i></p>
-<span><img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/></span>                                   
+<span>
+  <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
+  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmelvincwng">
+    <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow&maxAge=2592000"/>
+  </a>                      
+</span>
+
+<span>
+  <img src="https://github.com/melvincwng/movie-admin-app/blob/master/docs/img/success.gif" width="75" height="75" align="right"/>
+</span>   
                                                                                                                                                    
 <!-- <p>My Github Stats: </p> -->
 
