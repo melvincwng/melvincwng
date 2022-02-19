@@ -39,7 +39,7 @@
 <p><i>"The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓📚🤔</i></p>
 <span>
   <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
-  <a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmelvincwng">
+  <a href="https://github.com/melvincwng">
     <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow&maxAge=2592000"/>
   </a>                      
 </span>
