@@ -66,20 +66,22 @@
   </i>
 </p>
 
-<span>
+<p>
+  My Github Stats:
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
+  &nbsp;
   <a href="https://github.com/melvincwng">
     <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow&maxAge=2592000"/>
-  </a>                      
-</span>
+  </a>
+</p>
 
-<!-- align="right" does not seem to work anymore :( -->
-<div><img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" align="right"/></div>
-                                                                                                                       
-<!-- <p>My Github Stats: </p> -->
-
-<!-- [![Melvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=melvincwng)](https://github.com/melvincwng/github-readme-stats) -->
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&theme=dark" alt="Melvin's Github Stats" />
+  &nbsp;
+  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" align="right"/>
+</p>
+                                                                                                                      
 <!--
 **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
