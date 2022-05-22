@@ -76,10 +76,11 @@
   </a>
 </p>
 
+<!-- align="right" does not seem to work for the cat gif anymore -->
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&theme=dark" alt="Melvin's Github Stats" />
   &nbsp;
-  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" align="right"/>
+  <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="75" height="75" />
 </p>
                                                                                                                       
 <!--
