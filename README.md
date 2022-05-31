@@ -72,7 +72,7 @@
   <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
   &nbsp;
   <a href="https://github.com/melvincwng">
-    <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow&maxAge=2592000"/>
+    <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
   </a>
 </p>
 
