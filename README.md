@@ -31,6 +31,9 @@
 <p>Interesting technologies which I hope to learn in the future: </p>
 
 <p>      
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
   <img src="https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
@@ -43,13 +46,12 @@
   <img src="https://img.shields.io/badge/Phaser.js-F15B2A?style=for-the-badge&logo=starship&logoColor=white" />
   <img src="https://img.shields.io/badge/GDevelop-007DB8?style=for-the-badge&logo=Gitee&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
 </p> 
  
-<p>My Personal Website / Additional links: </p>            
+<p>My Personal Website / Additional links: </p>
 
 <p>
   <!-- target="_blank" does not work for github's README.md -->
@@ -96,4 +98,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
