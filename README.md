@@ -1,7 +1,7 @@
 ### Hi there, I'm Melvin Ng 👋🏻
 
 <details>
-  <summary>I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: </summary>
+  <summary>👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: </summary>
   <br/>
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary>Interesting technologies which I hope to learn in the future: </summary>
+  <summary>💻 Interesting technologies which I hope to learn in the future: </summary>
   <br/>
   <div>      
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -56,7 +56,7 @@
 </details>
 
 <details>
-  <summary>My Personal Website / Additional links: </summary>
+  <summary>🌐 My Personal Website / Additional links: </summary>
   <br/>
   <div>
     <!-- target="_blank" does not work for github's README.md -->
@@ -69,7 +69,7 @@
 </details>
 
 <details>
-  <summary>An inspirational quote that keeps me motivated to code: </summary>
+  <summary>💬 An inspirational quote that keeps me motivated to code: </summary>
   <br/>
   <div>
     <i>
@@ -80,7 +80,7 @@
 
 
 <details>
-  <summary>My Github Stats: </summary>
+  <summary>📈 My Github Stats: </summary>
   <br/>
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Melvin's Github Stats" />
