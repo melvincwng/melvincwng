@@ -91,7 +91,7 @@
        <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
      </a>
      &nbsp;
-     <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="50" height="50" />
+     <img src="https://github.com/melvincwng/melvincwng/blob/master/.github/success.gif" width="62.5" height="62.5" />
   </div>
 </details>
                                                                                                                       
