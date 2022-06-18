@@ -74,12 +74,12 @@
   <div>
     <div id="quote2021">
       <i>
-        "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - Melvin, 2021 🎓📚
+        "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - Melvin, 2021 🎓
       </i>
     </div>
     <br/>
     <div id="quote2022" >
-      <i>"To be a great developer, you should keep learning, growing, and coding." - Melvin, 2022 💪🏻</i>
+      <i>"It is essential to keep reading, learning, and coding to become a great developer." - Melvin, 2022 📚</i>
     </div>
     <br/>
     <div align="right">
