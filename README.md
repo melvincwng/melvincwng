@@ -69,12 +69,18 @@
 </details>
 
 <details>
-  <summary>💬 An inspirational quote that keeps me motivated to code: </summary>
+  <summary>💬 Inspirational quotes that keeps me motivated to code: </summary>
   <br/>
   <div>
-    <i>
-      "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓📚
-    </i>
+    <div id="quote2021" align="center">
+      <i>
+        "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - Melvin, 2021 🎓📚
+      </i>
+    </div>
+    <div id="quote2022" align="center">
+      <img src="./assets/finnAndJakePixelGif.gif" />
+      <i>"To be a great developer, you should keep learning, growing, and coding." - Melvin, 2022 💪🏻</i>
+    </div>
   </div>
 </details>
 
@@ -90,7 +96,7 @@
        <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
      </a>
      &nbsp;
-     <img src="https://github.com/melvincwng/melvincwng/blob/master/assets/cat.gif" width="60" height="60" />
+     <img src="./assets/cat.gif" width="60" height="60" />
   </div>
 </details>
                                                                                                                       
