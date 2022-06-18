@@ -30,7 +30,6 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
   </div>
-  <br/>
 </details>
 
 <details>
@@ -58,7 +57,6 @@
     <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
   </div>
-  <br />
 </details>
 
 <details>
@@ -72,7 +70,6 @@
     <a href="https://play.google.com/store/apps/dev?id=6328174873109802596"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
     <a href="https://www.buymeacoffee.com/melvincwng"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>  
   </div>
-  <br/>
 </details>
 
 <details>
@@ -97,7 +94,6 @@
       <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
     </div>
   </div>
-  <br/>
 </details>
 
 <details>
@@ -114,7 +110,6 @@
      &nbsp;
      <img src="./assets/cat.gif" width="60" height="60" />
   </div>
-  <br/>
 </details>
                                                                                                                       
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
