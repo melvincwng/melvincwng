@@ -1,7 +1,9 @@
 ### Hi there, I'm Melvin Ng 👋🏻
 
 <details>
-  <summary>👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: </summary>
+  <summary>
+    👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+  </summary>
   <br/>
   <div>
     <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
@@ -28,10 +30,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
   </div>
+  <br/>
 </details>
 
 <details>
-  <summary>💻 Interesting technologies which I hope to learn in the future: </summary>
+  <summary>
+    💻 Interesting technologies which I hope to learn in the future: 
+  </summary>
   <br/>
   <div>      
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -52,7 +57,8 @@
     <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
     <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  </div> 
+  </div>
+  <br />
 </details>
 
 <details>
@@ -66,10 +72,13 @@
     <a href="https://play.google.com/store/apps/dev?id=6328174873109802596"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
     <a href="https://www.buymeacoffee.com/melvincwng"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>  
   </div>
+  <br/>
 </details>
 
 <details>
-  <summary>💬 Inspirational quotes that keeps me motivated to code: </summary>
+  <summary>
+    💬 Inspirational quotes that keep me motivated to code: 
+  </summary>
   <br/>
   <div>
     <div id="quote2021">
@@ -80,18 +89,19 @@
     <br/>
     <div id="quote2022" >
       <i>
-        "It is essential to keep reading, learning, and coding to become a great developer." - Melvin, 2022 📚
+        "To become a great software developer, you must continuously read, learn, and code." - Melvin, 2022 📚
       </i>
     </div>
     <br/>
     <div align="right">
-      <img src="./assets/finnAndJakePixelGif.gif" width="270px" height="145.4px"/>
+      <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
     </div>
   </div>
+  <br/>
 </details>
 
 <details>
-  <summary>📈 My Github Stats: </summary>
+  <summary>📈 My GitHub Stats: </summary>
   <br/>
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Melvin's Github Stats" />
@@ -104,6 +114,7 @@
      &nbsp;
      <img src="./assets/cat.gif" width="60" height="60" />
   </div>
+  <br/>
 </details>
                                                                                                                       
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
