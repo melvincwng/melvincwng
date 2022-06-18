@@ -79,7 +79,9 @@
     </div>
     <br/>
     <div id="quote2022" >
-      <i>"It is essential to keep reading, learning, and coding to become a great developer." - Melvin, 2022 📚</i>
+      <i>
+        "It is essential to keep reading, learning, and coding to become a great developer." - Melvin, 2022 📚
+      </i>
     </div>
     <br/>
     <div align="right">
