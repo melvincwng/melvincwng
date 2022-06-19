@@ -108,7 +108,7 @@
     <br/>
     <div id="quote2022" >
       <i>
-        "eat(); sleep(); code(); repeat();" - M, 2023 🤔
+        "eat( ); sleep( ); code( ); repeat( );" - M, 2023 🤔
       </i>
     </div>
     <br/>
