@@ -84,7 +84,7 @@
        <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
      </a>
      &nbsp;
-     <img src="./assets/cat.gif" width="60" height="60" />
+     <img src="./assets/cat.gif" width="55" height="55" />
   </div>
 </details>
 
