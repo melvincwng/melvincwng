@@ -84,8 +84,8 @@
            &nbsp;
           <a href="https://github.com/melvincwng">
             <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
-          <img src="./assets/cat.gif" width="60" height="60" />
           </a>
+          <img src="./assets/cat.gif" width="60" height="60" />
         </div>
      </div>
   </div>
