@@ -78,13 +78,16 @@
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Melvin's Github Stats" />
      &nbsp;
-     <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
-     &nbsp;
-     <a href="https://github.com/melvincwng">
-       <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
-     </a>
-     &nbsp;
-     <img src="./assets/cat.gif" width="55" height="55" />
+     <div>
+        <div>
+          <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
+           &nbsp;
+          <a href="https://github.com/melvincwng">
+            <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
+          <img src="./assets/cat.gif" width="60" height="60" />
+          </a>
+        </div>
+     </div>
   </div>
 </details>
 
