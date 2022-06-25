@@ -86,6 +86,10 @@
             <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
           </a>
           <img src="./assets/cat.gif" width="60" height="60" />
+          <img src="./assets/mona-blue.gif" width="30" height="30" />
+          &nbsp;
+          &nbsp;
+          <img src="./assets/mona-dark.gif" width="30" height="30" />
         </div>
      </div>
   </div>
