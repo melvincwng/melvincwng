@@ -92,8 +92,6 @@
         <div>
           <a href="https://commits.top/singapore_private.html">
             <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20SG-Top%201%25-black?style=social&logo=github">
-            &nbsp;
-            <span id="wip-link">Work in Progress...</span>
           </a>
         </div>
         <div align="right">
@@ -136,14 +134,5 @@
     </div>
   </div>
 </details>
-
-<svg viewBox="0 0 0 0">
-  <style>
-    #wip-link {
-      color: white;
-    }
-  </style>     
-</svg>
-
                                                           
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
