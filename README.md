@@ -87,13 +87,13 @@
             <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
           </a>
         </div>
-        <!-- &nbsp;
+        &nbsp;
         &nbsp;
         <div>
           <a href="https://commits.top/singapore_private.html">
-            <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20SG-Top%201%25%20-black?style=social&logo=github">
+            <img src="https://img.shields.io/badge/Top%202.5%25%20of%20all%20%20GitHub%20users%20in%20SG%20(in%20terms%20of%20activity)-melvincwng-black?style=social&logo=github">
           </a>
-        </div> -->
+        </div>
         <div align="right">
           <img src="./assets/cat.gif" width="60" height="60" />
           <img src="./assets/mona-blue.gif" width="30" height="30" />
