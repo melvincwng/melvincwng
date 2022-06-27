@@ -78,12 +78,20 @@
   <div>
      <img src="https://github-readme-stats.vercel.app/api?username=melvincwng&count_private=true&show_icons=true&include_all_commits=true&theme=dark" alt="Melvin's Github Stats" />
      &nbsp;
+     &nbsp;
      <div>
         <div>
           <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
            &nbsp;
           <a href="https://github.com/melvincwng">
             <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
+          </a>
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
+          <a href="https://commits.top/singapore_private.html">
+            <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20User%20in%20SG-Top%201%25-black?style=social&logo=github">
           </a>
         </div>
         <div align="right">
