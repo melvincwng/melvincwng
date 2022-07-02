@@ -91,7 +91,7 @@
         &nbsp;
         <div>
           <a href="https://commits.top/singapore_private.html">
-            <img src="https://img.shields.io/badge/Most%20active%20GitHub%20users%20in%20SG-Top%205%25-black?style=social&logo=github">
+            <img src="https://img.shields.io/badge/Most%20active%20GitHub%20users%20in%20SG-Top%201%25-black?style=social&logo=github">
           </a>
         </div>
         <div align="right">
