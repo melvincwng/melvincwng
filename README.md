@@ -110,34 +110,34 @@
     💬 Inspirational quotes that keep me motivated to code: 
   </summary>
   <br/>
-  <div>
-   <div id="quote2020" >
+  <ul>
+   <li id="quote2020">
       <i>
-        "eat( ); sleep( ); code( ); repeat( );" - M, 2020 🤔
+        eat( ); sleep( ); code( ); repeat( ); - M, 2020 🤔
       </i>
-    </div>
+    </li>
     <br/>
-    <div id="quote2021">
+    <li id="quote2021">
       <i>
-        "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓
+        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates. - M, 2021 🎓
       </i>
-    </div>
+    </li>
     <br/>
-    <div id="quote2022" >
+    <li id="quote2022">
       <i>
-        "To become a great software developer, you must continuously read, learn, and code." - M, 2022 📚
+        To become a great software developer, you must continuously read, learn, and code. - M, 2022 📚
       </i>
-    </div>
+    </li>
     <br/>
-    <div id="quote2023" >
+    <li id="quote2023">
       <i>
-        "Software development changed my life. Now, I want to use software development to change the lives of others." - M, 2023 😊
+        Software development changed my life. Now, I want to use software development to change the lives of others. - M, 2023 😊
       </i>
-    </div>
-    <br/>
-    <div align="right">
-      <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
-    </div>
+    </li>
+  </ul>
+  <br/>
+  <div align="right">
+    <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
   </div>
 </details>
                                                           
