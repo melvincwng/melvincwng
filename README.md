@@ -111,6 +111,12 @@
   </summary>
   <br/>
   <div>
+   <div id="quote2020" >
+      <i>
+        "eat( ); sleep( ); code( ); repeat( );" - M, 2020 🤔
+      </i>
+    </div>
+    <br/>
     <div id="quote2021">
       <i>
         "The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates." - M, 2021 🎓
@@ -123,9 +129,9 @@
       </i>
     </div>
     <br/>
-    <div id="quote2022" >
+    <div id="quote2023" >
       <i>
-        "eat( ); sleep( ); code( ); repeat( );" - M, 2023 🤔
+        "Software development changed my life. Now, I want to use software development to change the lives of others." - M, 2023 😊
       </i>
     </div>
     <br/>
