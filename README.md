@@ -112,12 +112,6 @@
   </summary>
   <br/>
   <ul>
-   <li id="quote2020">
-      <i>
-        eat( ); sleep( ); code( ); repeat( ); - M, 2020 🤔
-      </i>
-    </li>
-    <br/>
     <li id="quote2021">
       <i>
         The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates. - M, 2021 🎓
