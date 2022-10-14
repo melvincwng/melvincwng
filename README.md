@@ -83,6 +83,13 @@
      <br/>
      <br/>
      <div>
+       <a href="https://holopin.io/@melvincwng">
+         <img src="https://holopin.me/melvincwng" alt="@melvincwng's Holopin board" />
+       </a>
+     </div>
+     <br />
+     <br />
+     <div>
         <div>
           <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
            &nbsp;
