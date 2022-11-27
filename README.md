@@ -43,7 +43,9 @@
   </summary>
   <br/>
   <div> 
-    <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />     
+    <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />                
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
