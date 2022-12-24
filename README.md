@@ -113,7 +113,7 @@
         &nbsp;
         <div>
           <a href="https://github.com/orgs/community/discussions/42328">
-            <img src="https://img.shields.io/badge/Top%205%20Outstanding%20Members%20In%20GitHub%20Community%20(2022)--black?style=social&logo=github">
+            <img src="https://img.shields.io/badge/Top%205%20Outstanding%20Members%20In%20GitHub%20Community%20(2022)-Click%20Here%20%F0%9F%91%86%F0%9F%8F%BB-black?style=social&logo=github">
           </a>
         </div>
         <div align="right">
