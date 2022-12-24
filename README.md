@@ -106,7 +106,14 @@
         &nbsp;
         <div>
           <a href="https://commits.top/singapore_private.html">
-            <img src="https://img.shields.io/badge/Most%20active%20GitHub%20users%20in%20SG-Top%201%25-black?style=social&logo=github">
+            <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20Users%20In%20SG-Top%201%25-black?style=social&logo=github">
+          </a>
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
+          <a href="https://github.com/orgs/community/discussions/42328">
+            <img src="https://img.shields.io/badge/Top%205%20Outstanding%20Members%20In%20GitHub%20Community%20(2022)--black?style=social&logo=github">
           </a>
         </div>
         <div align="right">
