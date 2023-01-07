@@ -77,7 +77,8 @@
     <a href="https://melvinng.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
     <a href="https://scratch.mit.edu/users/melvincwng/"><img src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
     <a href="https://create.kahoot.it/profiles/128094b7-3ef9-43de-bb8d-3adb37d82eee"><img src="https://img.shields.io/badge/Kahoot!-46178F?style=for-the-badge&logo=Kahoot!&logoColor=white" /></a>
-    <a href="https://www.buymeacoffee.com/melvincwng"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>  
+    <a href="https://www.buymeacoffee.com/melvincwng"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+    <a href="https://githubcampus.expert/melvincwng/"><img src="https://img.shields.io/badge/GitHub Campus Experts Profile-d61e3c?style=for-the-badge&logo=github&logoColor=white" /></a>  
   </div>
 </details>
 
