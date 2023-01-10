@@ -1,4 +1,6 @@
-### Hi there, I'm Melvin Ng 👋🏻
+<img src="./assets/sudio.gif" alt="banner">
+
+<h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
 <details>
   <summary>
