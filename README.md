@@ -1,4 +1,4 @@
-<img src="./assets/bannerTwo.gif" alt="banner">
+https://user-images.githubusercontent.com/77479885/224547858-a91d49e7-f5f1-45fe-82cd-7dc9828823f9.mp4
 
 <h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
