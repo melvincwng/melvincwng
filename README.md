@@ -1,4 +1,4 @@
-<img src="./assets/sudio.gif" alt="banner">
+<img src="./assets/bannerFHD.gif" alt="banner">
 
 <h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
