@@ -1,5 +1,7 @@
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
+
 <h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
 <details>
@@ -159,5 +161,3 @@
     <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
   </div>
 </details>
-
-<video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
