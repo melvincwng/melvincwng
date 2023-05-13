@@ -1,6 +1,13 @@
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
+<!-- 
+  1. As of 13/05/2023, Video element is not working in GitHub README.md due to GH's CSP blocking it
+  2. You can directly just embed a video using the uploaded URL (i.e. https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4) but it does not autoplay the video...
+  3. Hence, converted video to gif instead using https://www.xconvert.com/convert-video-to-gif (preserves good image resolution & good frame rate as well)
+  <video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
+-->
+
+![banner](https://github.com/melvincwng/melvincwng/assets/77479885/6b283967-8d16-40c6-93b0-84d0251fc7c0)
 
 <h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
