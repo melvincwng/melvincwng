@@ -7,7 +7,7 @@
   <video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
 -->
 
-![banner](https://github.com/melvincwng/melvincwng/assets/77479885/6b283967-8d16-40c6-93b0-84d0251fc7c0)
+![banner](./assets/banner.gif)
 
 <h2>Hi there, I'm Melvin Ng 👋🏻</h2>
 
