@@ -54,7 +54,8 @@
     💻 Interesting technologies which I hope to learn in the future: 
   </summary>
   <br/>
-  <div> 
+  <div>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
     <img src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />                
