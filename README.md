@@ -117,10 +117,16 @@
     <div>
         <div>
           <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github Profile Views"/>
-          &nbsp;
-          <a href="https://user-badge.committers.top/singapore_private/melvincwng"><img src="https://user-badge.committers.top/singapore_private/melvincwng.svg" alt="committers.top badge">
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
+          <a href="https://user-badge.committers.top/singapore_private/melvincwng"><img src="https://user-badge.committers.top/singapore_private/melvincwng.svg" alt="SG Top Committers Badge">
           </a>
-          &nbsp;
+        </div>
+        &nbsp;
+        &nbsp;
+        <div>
           <a href="https://github.com/melvincwng">
           <img src="https://img.shields.io/github/followers/melvincwng.svg?style=social&label=Follow"/>
           </a>
