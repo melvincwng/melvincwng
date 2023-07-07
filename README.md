@@ -104,8 +104,8 @@
       If user is using dark mode, use the dark mode theme for the stats card.
       Else, use the default theme for the stats card.
     -->
-    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=dark#gh-dark-mode-only&show_icons=true&include_all_commits=true&show=discussions_answered" alt="Melvin's Github Stats" />
-    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=default#gh-light-mode-only&show_icons=true&include_all_commits=true&show=discussions_answered" alt="Melvin's Github Stats" />
+    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=dark&show_icons=true&include_all_commits=true&show=discussions_answered#gh-dark-mode-only" alt="Melvin's Github Stats Dark Mode" />
+    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=default&show_icons=true&include_all_commits=true&show=discussions_answered#gh-light-mode-only" alt="Melvin's Github Stats Light Mode" />
     <br/>
     <br/>
     <div>
