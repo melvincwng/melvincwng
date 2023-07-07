@@ -1,6 +1,6 @@
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!-- 
+<!--
   1. As of 13/05/2023, Video element is not working in GitHub README.md due to GH's CSP blocking it
   2. You can directly just embed a video using the uploaded URL (i.e. https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4) but it does not autoplay the video...
   3. Hence, converted video to gif instead using https://www.xconvert.com/convert-video-to-gif (preserves good image resolution & good frame rate as well)
@@ -104,8 +104,8 @@
       If user is using dark mode, use the dark mode theme for the stats card.
       Else, use the default theme for the stats card.
     -->
-    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=dark&show_icons=true&include_all_commits=true&show=discussions_answered#gh-dark-mode-only" alt="Melvin's Github Stats Dark Mode" />
-    <img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&theme=default&show_icons=true&include_all_commits=true&show=discussions_answered#gh-light-mode-only" alt="Melvin's Github Stats Light Mode" />
+    <a href="https://github.com/melvincwng#gh-dark-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&amp;theme=dark&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-dark-mode-only" alt="Melvin&#39;s GitHub stats - Dark"></a>
+    <a href="https://github.com/melvincwng#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>   
     <br/>
     <br/>
     <div>
