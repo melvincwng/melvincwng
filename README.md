@@ -13,7 +13,7 @@
 
 <details>
   <summary>
-    👨‍💻 I'm a software developer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
+    👨‍💻 I'm a software engineer who enjoys learning new languages, libraries, and frameworks. I'm currently learning: 
   </summary>
   <br/>
   <div>
@@ -170,7 +170,7 @@
     <br/>
     <li id="quote2022">
       <i>
-        To become a great software developer, you must continuously read, learn, and code. - M, 2022 📚
+        To become a great software engineer, you must continuously read, learn, and code. - M, 2022 📚
       </i>
     </li>
     <br/>
