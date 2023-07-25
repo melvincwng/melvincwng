@@ -164,19 +164,19 @@
   <ul>
     <li id="quote2021">
       <i>
-        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates. - M, 2021 🎓
+        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates - 2021 🎓
       </i>
     </li>
     <br/>
     <li id="quote2022">
       <i>
-        To become a great software engineer, you must continuously read, learn, and code. - M, 2022 📚
+        To become a great software engineer, you must continuously read, learn, and code - 2022 📚
       </i>
     </li>
     <br/>
     <li id="quote2023">
       <i>
-        Software development changed my life. Now, I want to use software development to change the lives of others. - M, 2023 😊
+        Software development changed my life. Now, I want to use software development to change the lives of others - 2023 😊
       </i>
     </li>
   </ul>
