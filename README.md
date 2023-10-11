@@ -112,7 +112,7 @@
     <br/>
     <div>
       <a href="https://holopin.io/@melvincwng">
-        <img src="https://holopin.me/melvincwng" alt="melvincwng's Holopin board" />
+        <img src="" alt="melvincwng's Holopin board" />
       </a>
     </div>
     <br />
