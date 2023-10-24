@@ -118,7 +118,7 @@
     <br />
     <div>
         <div>
-          <img src="https://komarev.com/ghpvc/?username=melvincwng&label=Github%20Profile%20Views"/>
+          <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github%20Profile%20Views"/>
         </div>
         &nbsp;
         &nbsp;
