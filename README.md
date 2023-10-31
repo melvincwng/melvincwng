@@ -1,15 +1,10 @@
 <!-- **melvincwng/melvincwng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<!--
-  1. As of 13/05/2023, Video element is not working in GitHub README.md due to GH's CSP blocking it
-  2. You can directly just embed a video using the uploaded URL (i.e. https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4) but it does not autoplay the video...
-  3. Hence, converted video to gif instead using https://www.xconvert.com/convert-video-to-gif (preserves good image resolution & good frame rate as well)
-  <video src="https://user-images.githubusercontent.com/77479885/224764100-a9fb20ee-80f4-4eb1-8ba7-7130c0c5722b.mp4" width="100%"  height="100%" controls autoplay muted loop></video>
--->
-
-![banner](./assets/banner.gif)
-
-<h2>Hi there, I'm Melvin Ng 👋🏻</h2>
+<h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&center=true&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Melvin+Ng+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Programming+Instructor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+GitHub+Campus+Expert+%F0%9F%9A%A9" alt="melvincwng's banner" />
+  </a>
+</h2>
 
 <details>
   <summary>
