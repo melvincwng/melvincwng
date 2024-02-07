@@ -176,6 +176,12 @@
         Software development changed my life. Now, I want to use software development to change the lives of others - 2023 😊
       </i>
     </li>
+    <br/>
+    <li id="quote2024">
+      <i>
+        A man with true strength will not bully the weak; instead he uses that strength to help those in need 💪🏻
+      </i>
+    </li>
   </ul>
   <br/>
 
