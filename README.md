@@ -81,9 +81,6 @@
   <summary>🌐 My Personal Website / Additional links: </summary>
   <br/>
   <div>
-    <!-- 
-      target="_blank" does not work for GitHub's README.md 
-    -->
     <a href="https://melvincwng.github.io/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://app.pluralsight.com/profile/melvincwng"><img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white" /></a>
     <a href="https://play.google.com/store/apps/dev?id=6328174873109802596"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
