@@ -55,6 +55,7 @@
     <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
     <img src="https://img.shields.io/badge/PocketBase-B8DBE4?style=for-the-badge&logo=PocketBase&logoColor=white" />
