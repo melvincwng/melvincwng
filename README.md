@@ -171,7 +171,7 @@
     <br/>
     <li id="quote2022">
       <i>
-        To become a great software engineer, you must continuously read, learn, and code - M, 2022
+        To become a great software engineer, you must continuously learn, read, and code - M, 2022
       </i>
       📚
     </li>
