@@ -189,6 +189,13 @@
       </i>
       💪🏻
     </li>
+    <br/>
+    <li id="quote2025">
+      <i>
+        To Lead, To Excel, To Overcome - M, 2025
+      </i>
+    </li>
+    <br/>
   </ul>
   <br/>
 
