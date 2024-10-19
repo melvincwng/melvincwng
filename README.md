@@ -194,7 +194,7 @@
       <i>
         I will be the very best, like no one ever was - M, 2025
       </i>
-      ⚔️
+      🥇
     </li>
     <br/>
   </ul>
