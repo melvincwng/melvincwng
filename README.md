@@ -192,7 +192,7 @@
     <br/>
     <li id="quote2025">
       <i>
-        To Lead, To Excel, To Overcome - M, 2025
+        I will be the very best, like no one ever was - M, 2025
       </i>
       ⚔️
     </li>
