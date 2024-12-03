@@ -194,7 +194,7 @@
     <br/>
     <li id="quote2025">
       <i>
-        I will be the very best, like no one ever was - M, 2025
+        To be the very best, like no one ever was - M, 2025
       </i>
       🥇
     </li>
