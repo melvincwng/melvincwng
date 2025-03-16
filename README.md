@@ -201,7 +201,7 @@
     <br/>
     <li id="quote2026">
       <i>
-        The top of one mountain is the bottom of the next - so I'll keep climbing to achieve my goals and dreams - M, 2026
+        The top of one mountain is the bottom of the next, so keep climbing to achieve your goals and dreams - M, 2026
       </i>
       🏔️
     </li>
