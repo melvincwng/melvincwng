@@ -199,6 +199,13 @@
       🥇
     </li>
     <br/>
+    <li id="quote2026">
+      <i>
+        The top of one mountain is the bottom of the next - so I'll keep climbing to achieve my goals and dreams - M, 2026
+      </i>
+      🏔️
+    </li>
+    <br/>
   </ul>
   <br/>
 
