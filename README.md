@@ -213,3 +213,16 @@
     <img src="./assets/finnAndJakePixelArt.gif" width="270px" height="145.4px"/>
   </div>
 </details>
+<details>
+  <summary>🥇 Personal Goals: </summary>
+  <br/>
+    <div align="right">
+      <img src="./assets/winter.gif"/>
+      <br/>
+      "<i>Let's Make The World A Better Place Using IT</i> 🌏"
+      <br/>
+      <i>– Melvin Ng, RPh 黄成伟东奕 (1st GitHub Universe Scholar in 🇸🇬)</i>
+      <br/>
+      ❄☃🎄🎁😊
+  </div>
+</details>
