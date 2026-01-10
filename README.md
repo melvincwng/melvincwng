@@ -2,7 +2,7 @@
 
 <h2>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Melvin+Ng+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Programming+Instructor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+GitHub+Campus+Expert+%F0%9F%9A%A9" alt="melvincwng's banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Melvin+Ng+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Programming+Instructor+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+a+GitHub+Developer+Advocate+%F0%9F%9A%A9" alt="melvincwng's banner" />
   </a>
 </h2>
 
@@ -226,3 +226,4 @@
       ❄☃🎄🎁😊
   </div>
 </details>
+
