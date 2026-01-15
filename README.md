@@ -223,7 +223,7 @@
       <br/>
       <i>– Melvin Ng, RPh 黄成伟东奕 (<b>NUS Valedictorian with Distinction, 1st GitHub Universe Scholar in Singapore, Impacted 1,000+ developers across 160+ educational institutions and 175+ tech communities globally 🇸🇬</b>)</i>
       <br/>
-      <i>If you found my work inspiring, you're welcome to <b><a href="https://stars.github.com/nominate/" target="_blank" rel="noopener noreferrer">nominate me for the GitHub Stars Award 🌟</a></b></i>
+      <i>If you found my work inspiring, you're welcome to <b><a href="https://stars.github.com/nominate/" target="_blank" rel="noopener noreferrer">nominate me for the GitHub Stars Award</a></b></i> 🌟
       <br/>
       ❄☃🎄🎁😊
   </div>
