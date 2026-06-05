@@ -124,7 +124,7 @@
         &nbsp;
         &nbsp;
         <div>
-          <a href="https://user-badge.committers.top/singapore_private/melvincwng"><img src="https://user-badge.committers.top/singapore_private/melvincwng.svg" alt="SG Top Committers Badge">
+          <a href="https://user-badge.committers.top/singapore_public/melvincwng"><img src="https://user-badge.committers.top/singapore_public/melvincwng.svg" alt="SG Top Committers Badge">
           </a>
         </div>
         &nbsp;
