@@ -138,7 +138,7 @@
         &nbsp;
         <div>
           <a href="https://committers.top/singapore_private#melvincwng">
-            <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20Users%20In%20SG-Top%201%25-black?style=social&logo=github">
+            <img src="https://img.shields.io/badge/Most%20Active%20GitHub%20Users%20In%20SG-Top%200.5%25-black?style=social&logo=github">
           </a>
         </div>
         &nbsp;
