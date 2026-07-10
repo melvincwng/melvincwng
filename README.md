@@ -167,44 +167,51 @@
   <ul>
     <li id="quote2021">
       <i>
-        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates - M, 2021
+        The key to success in life is having that lifelong passion for learning that extends beyond good grades, test scores, and graduation dates. - M, 2021
       </i>
       🎓
     </li>
     <br/>
     <li id="quote2022">
       <i>
-        To become a great software engineer, you must continuously learn, read, and code - M, 2022
+        To become a great software engineer, you must continuously learn, read, and code. - M, 2022
       </i>
       📚
     </li>
     <br/>
     <li id="quote2023">
       <i>
-        Software development changed my life. Now, I want to use software development to change the lives of others - M, 2023
+        Software development changed my life. Now, I want to use software development to change the lives of others. - M, 2023
       </i>
       😊
     </li>
     <br/>
     <li id="quote2024">
       <i>
-        A man with true strength will not bully the weak; instead, he uses that strength to help those in need, like how I will, using Information Technology - M, 2024
+        A man with true strength will not bully the weak; instead, he uses that strength to help those in need, like how I will, using Information Technology. - M, 2024
       </i>
       💪🏻
     </li>
     <br/>
     <li id="quote2025">
       <i>
-        To be the very best, like no one ever was - M, 2025
+        To be the very best, like no one ever was. - M, 2025
       </i>
       🥇
     </li>
     <br/>
     <li id="quote2026">
       <i>
-        The top of one mountain is the bottom of the next, so keep climbing to achieve your goals and dreams - M, 2026
+        The top of one mountain is the bottom of the next, so keep climbing to achieve your goals and dreams. - M, 2026
       </i>
       🏔️
+    </li>
+    <br/>
+    <li id="quote2027">
+      <i>
+        To lead. To excel. To overcome. To be better every single day. To become the very best. - M, 2027
+      </i>
+      🫡
     </li>
     <br/>
   </ul>
