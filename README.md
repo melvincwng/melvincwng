@@ -128,10 +128,10 @@
         </div>
         &nbsp;
         &nbsp;
-        <div>
+        <!-- <div>
           <a href="https://user-badge.committers.top/singapore_public/melvincwng"><img src="https://user-badge.committers.top/singapore_public/melvincwng.svg" alt="SG Top Committers Badge">
           </a>
-        </div>
+        </div> -->
         &nbsp;
         &nbsp;
         <div>
