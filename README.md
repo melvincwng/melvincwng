@@ -108,7 +108,7 @@
       Else, use the default theme for the stats card.
     -->
     <a href="https://github.com/melvincwng#gh-dark-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&amp;theme=dark&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-dark-mode-only" alt="Melvin&#39;s GitHub stats - Dark"></a>
-    <a href="https://github.com/melvincwng#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>   
+    <a href="https://github.com/melvincwng#gh-light-mode-only"><img src="https://github-readme-stats-pi-snowy-49.vercel.app/api?username=melvincwng&amp;theme=default&amp;show_icons=true&amp;include_all_commits=true&amp;show=discussions_answered#gh-light-mode-only" alt="Melvin&#39;s GitHub stats - Light"></a>
     <br/>
     <br/>
     <div>
@@ -118,6 +118,11 @@
     </div>
     <br />
     <div>
+        <a href="https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/singapore.md#melvincwng">
+          <img src="https://raw.githubusercontent.com/gayanvoice/top-github-users-ranking/main/svg/singapore/melvincwng.svg" alt="gayanvoice/top-github-users/singapore">
+        </a>
+        <br/>
+        <br/>
         <div>
           <img src="https://komarev.com/ghpvc/?username=melvincwng&color=brightgreen&label=Github%20Profile%20Views"/>
         </div>
